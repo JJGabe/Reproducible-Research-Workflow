@@ -1,6 +1,6 @@
 GEOG 712 Reproducible Research Workflow
 ========================================================
-author: Antonio Paez and Krysha Dukacz
+author: Antonio Paez and Krysha Dukacz so if I make changes here then save
 date: 
 autosize: true
 
